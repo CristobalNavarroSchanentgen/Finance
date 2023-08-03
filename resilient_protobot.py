@@ -1,5 +1,5 @@
 # A SIMPLE STRATEGY THAT WORKED WELL FOR ME
-
+# You can notice that in order to optimize cloud cost (the bot was hosted on gcp) I use a print statement for sql inserts instead of managing an expansive cloud sql service. 
 
 import numpy as np
 import pandas as pd
